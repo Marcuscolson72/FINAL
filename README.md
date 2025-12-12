@@ -1,1 +1,1 @@
-# FINAL
+# FINAL This is a web application where you can practice your slope skills and have Fun. You will attempt slope questions until you get it right then you have the chance to land a skateboard on a platform for 100 points. Land it 5 times get 500 points and win.
